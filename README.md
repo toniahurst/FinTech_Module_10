@@ -1,5 +1,6 @@
 # FinTech_Module_10 Challenge
 
+In this Challenge, we played the role of an advisor to one of the top five financial advisory firms in the world. Our task was to go beyond the typical analysis to include machine learning in addition to usual assessments of risk and return. 
 
 ## Fig. 1: 
 
