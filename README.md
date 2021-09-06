@@ -32,7 +32,7 @@ This program uses Python 3.7.10, Pandas, Anaconda version 4.10.3, and JupyterLab
 
 ## Usage
 
-Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/Module_7_Starter_Code/etf_analyzer.ipynb or download the notebook and run from the CLI.
+Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_10/blob/main/Starter_Code/crypto_investments.ipynb or download the notebook and run from the CLI.
 
 ## Contributors
 
