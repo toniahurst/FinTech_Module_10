@@ -3,27 +3,27 @@
 
 ## Fig. 1: 
 
-![Fig. 1](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%201.png)
+![Fig. 1](https://github.com/toniahurst/FinTech_Module_10/blob/main/Starter_Code/Screen%20Shot%202021-09-05%20at%2010.47.21%20PM.png)
 
 ## Fig. 2: 
 
-![Fig. 2](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%202.png)
+![Fig. 2](https://github.com/toniahurst/FinTech_Module_10/blob/main/Starter_Code/Screen%20Shot%202021-09-05%20at%2010.47.32%20PM.png)
 
 ## Fig. 3: 
 
-![Fig. 3](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%203.png)
+![Fig. 3](https://github.com/toniahurst/FinTech_Module_10/blob/main/Starter_Code/Screen%20Shot%202021-09-05%20at%2010.47.45%20PM.png)
 
 ## Fig. 4: 
 
-![Fig. 4](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%204.png)
+![Fig. 4](https://github.com/toniahurst/FinTech_Module_10/blob/main/Starter_Code/Screen%20Shot%202021-09-05%20at%2010.47.53%20PM.png)
 
 ## Fig. 5: 
 
-![Fig. 5](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%205.png)
+![Fig. 5](https://github.com/toniahurst/FinTech_Module_10/blob/main/Starter_Code/Screen%20Shot%202021-09-05%20at%2010.48.08%20PM.png)
 
 ## Fig. 6: 
 
-![Fig. 6](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%206.png)
+![Fig. 6](https://github.com/toniahurst/FinTech_Module_10/blob/main/Starter_Code/Screen%20Shot%202021-09-05%20at%2010.48.16%20PM.png)
 
 
 ## Technologies
